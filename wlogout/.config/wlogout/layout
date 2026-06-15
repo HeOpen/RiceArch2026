@@ -1,24 +1,24 @@
 {
     "label" : "lock",
     "action" : "hyprlock",
-    "text" : "Lock",
+    "text" : "Блокировка",
     "keybind" : "l"
 }
 {
     "label" : "logout",
     "action" : "hyprshutdown",
-    "text" : "Logout",
+    "text" : "Выход",
     "keybind" : "e"
 }
 {
     "label" : "reboot",
     "action" : "systemctl reboot",
-    "text" : "Reboot",
+    "text" : "Перезагрузка",
     "keybind" : "r"
 }
 {
     "label" : "shutdown",
     "action" : "systemctl poweroff",
-    "text" : "Shutdown",
+    "text" : "Выключение",
     "keybind" : "s"
 }
